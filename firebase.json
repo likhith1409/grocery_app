@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"grocery-3a5ab","appId":"1:425290464065:android:3bc90f262afd691f26bfc0","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"grocery-3a5ab","configurations":{"android":"1:425290464065:android:3bc90f262afd691f26bfc0","ios":"1:425290464065:ios:639e9ba8b9a4781f26bfc0"}}}}}}
